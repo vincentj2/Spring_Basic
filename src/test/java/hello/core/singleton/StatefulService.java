@@ -1,6 +1,6 @@
 package hello.core.singleton;
 
-public class StatefulService {
+public class  StatefulService {
 
     private int price;
 
